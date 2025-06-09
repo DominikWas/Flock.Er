@@ -1,0 +1,37 @@
+# ========== Unity-generated folders ==========
+Library/
+Temp/
+Obj/
+Logs/
+MemoryCaptures/
+Build/
+Builds/
+
+# ========== VS Code ==========
+.vscode/
+
+# ========== MonoBleedingEdge ==========
+MonoBleedingEdge/
+
+# ========== Project Builds ==========
+*.exe
+*.apk
+*.aab
+*.unitypackage
+*.dll
+
+# ========== Unity IDE/Compiler Files ==========
+*.csproj
+*.sln
+*.user
+*.pidb
+*.suo
+*.userprefs
+*.unityproj
+
+# ========== System Files ==========
+.DS_Store
+Thumbs.db
+
+# ========== Crash Handlers ==========
+UnityCrashHandler*.exe
